@@ -31,9 +31,7 @@ Tech Stack
 
 **Contents**
 
-Assay Data - Azeri.xlsx, publicly available crude assay data utilized for input calculations.
-
-Provisional Selling Price Calculations.
+Assay Data - Azeri.xlsx, publicly available crude assay data utilized for input calculations along with provisional Selling Price Calculations in the respective sheet.
 
 Python script that computes the provisional selling price per barrel based on fractional product yields and assigned spot market prices.
 
