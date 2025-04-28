@@ -22,5 +22,22 @@ Perform basic scenario analyses to model the impact of fluctuations in refined p
 Output results in structured, user-friendly Excel files for further analysis or reporting.
 
 
+**Contents**
+
+Assay Data
+
+example_assay.xlsx
+
+Publicly available crude assay data utilized for input calculations.
+
+Selling Price Calculation
+
+Python script that computes the provisional selling price per barrel based on fractional product yields and assigned spot market prices.
+
+Scenario Analysis Module
+
+Sample Python script (scenario_analysis.py) that enables users to simulate price fluctuation scenarios and observe their effects on overall crude value.
+
+
 This repository is licensed under the MIT License.
 
