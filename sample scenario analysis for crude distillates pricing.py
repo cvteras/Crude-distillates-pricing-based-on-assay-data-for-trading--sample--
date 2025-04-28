@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr 28 20:20:57 2025
 
-@author: cgarn
-"""
 
 # scenario_analysis.py
 
